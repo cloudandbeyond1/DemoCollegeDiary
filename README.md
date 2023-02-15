@@ -1,0 +1,2 @@
+# DemoCollegeDiary
+Sample Application
